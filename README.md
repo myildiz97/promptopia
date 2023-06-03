@@ -1,7 +1,8 @@
-[] Fix edit button
-[] Implement Search
+# TO DO
+- [ ] Fix edit button
+- [ ] Implement Search
     - Search by prompt
     - Search by tag
     - Search by username
-[] Implement Click on tag
-[] Implement View other profiles
+- [ ] Implement Click on tag
+- [ ] Implement View other profiles
